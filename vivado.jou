@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Sep 20 14:13:40 2019
+# Process ID: 11416
+# Current directory: D:/vivado projects/lab6_HW
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15388 D:\vivado projects\lab6_HW\lab6_HW.xpr
+# Log file: D:/vivado projects/lab6_HW/vivado.log
+# Journal file: D:/vivado projects/lab6_HW\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/vivado projects/lab6_HW/lab6_HW.xpr}
